@@ -1,0 +1,14 @@
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\bin\Debug\net8.0\desafiolaco02.exe
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\bin\Debug\net8.0\desafiolaco02.deps.json
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\bin\Debug\net8.0\desafiolaco02.runtimeconfig.json
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\bin\Debug\net8.0\desafiolaco02.dll
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\bin\Debug\net8.0\desafiolaco02.pdb
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\obj\Debug\net8.0\desafiolaco02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\obj\Debug\net8.0\desafiolaco02.AssemblyInfoInputs.cache
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\obj\Debug\net8.0\desafiolaco02.AssemblyInfo.cs
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\obj\Debug\net8.0\desafiolaco02.csproj.CoreCompileInputs.cache
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\obj\Debug\net8.0\desafiolaco02.dll
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\obj\Debug\net8.0\refint\desafiolaco02.dll
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\obj\Debug\net8.0\desafiolaco02.pdb
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\obj\Debug\net8.0\desafiolaco02.genruntimeconfig.cache
+C:\Users\48665566848\Desktop\AULA-BACKEND\desafiolaco02\obj\Debug\net8.0\ref\desafiolaco02.dll
