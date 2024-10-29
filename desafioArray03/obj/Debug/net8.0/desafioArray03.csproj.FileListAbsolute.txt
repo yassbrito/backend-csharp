@@ -1,0 +1,15 @@
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\bin\Debug\net8.0\desafioArray03.exe
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\bin\Debug\net8.0\desafioArray03.deps.json
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\bin\Debug\net8.0\desafioArray03.runtimeconfig.json
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\bin\Debug\net8.0\desafioArray03.dll
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\bin\Debug\net8.0\desafioArray03.pdb
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\obj\Debug\net8.0\desafioArray03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\obj\Debug\net8.0\desafioArray03.AssemblyInfoInputs.cache
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\obj\Debug\net8.0\desafioArray03.AssemblyInfo.cs
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\obj\Debug\net8.0\desafioArray03.csproj.CoreCompileInputs.cache
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\obj\Debug\net8.0\desafioArray03.sourcelink.json
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\obj\Debug\net8.0\desafioArray03.dll
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\obj\Debug\net8.0\refint\desafioArray03.dll
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\obj\Debug\net8.0\desafioArray03.pdb
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\obj\Debug\net8.0\desafioArray03.genruntimeconfig.cache
+C:\Users\48665566848\Desktop\AULA-BACKEND\DesafioArray03\obj\Debug\net8.0\ref\desafioArray03.dll
