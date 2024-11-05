@@ -1,0 +1,15 @@
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\bin\Debug\net8.0\Branco.exe
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\bin\Debug\net8.0\Branco.deps.json
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\bin\Debug\net8.0\Branco.runtimeconfig.json
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\bin\Debug\net8.0\Branco.dll
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\bin\Debug\net8.0\Branco.pdb
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\obj\Debug\net8.0\Branco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\obj\Debug\net8.0\Branco.AssemblyInfoInputs.cache
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\obj\Debug\net8.0\Branco.AssemblyInfo.cs
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\obj\Debug\net8.0\Branco.csproj.CoreCompileInputs.cache
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\obj\Debug\net8.0\Branco.sourcelink.json
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\obj\Debug\net8.0\Branco.dll
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\obj\Debug\net8.0\refint\Branco.dll
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\obj\Debug\net8.0\Branco.pdb
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\obj\Debug\net8.0\Branco.genruntimeconfig.cache
+C:\Users\48665566848\Desktop\AULA-BACKEND\POO\Banco\obj\Debug\net8.0\ref\Branco.dll
