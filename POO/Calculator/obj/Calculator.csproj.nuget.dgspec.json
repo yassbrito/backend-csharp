@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48665566848\\Desktop\\AULA-BACKEND\\POO\\Calculador\\Calculador.csproj": {}
+    "C:\\Users\\48665566848\\Desktop\\AULA-BACKEND\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48665566848\\Desktop\\AULA-BACKEND\\POO\\Calculador\\Calculador.csproj": {
+    "C:\\Users\\48665566848\\Desktop\\AULA-BACKEND\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48665566848\\Desktop\\AULA-BACKEND\\POO\\Calculador\\Calculador.csproj",
-        "projectName": "Calculador",
-        "projectPath": "C:\\Users\\48665566848\\Desktop\\AULA-BACKEND\\POO\\Calculador\\Calculador.csproj",
+        "projectUniqueName": "C:\\Users\\48665566848\\Desktop\\AULA-BACKEND\\Calculator\\Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "C:\\Users\\48665566848\\Desktop\\AULA-BACKEND\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\48665566848\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48665566848\\Desktop\\AULA-BACKEND\\POO\\Calculador\\obj\\",
+        "outputPath": "C:\\Users\\48665566848\\Desktop\\AULA-BACKEND\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\48665566848\\AppData\\Roaming\\NuGet\\NuGet.Config",

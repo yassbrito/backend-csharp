@@ -1,4 +1,4 @@
-using Calculator.Classes;
+﻿using Calculator.Classes;
 
 Console.Clear();
 Console.WriteLine($"***** PROGRAMA CALCULATOR *****");
@@ -6,9 +6,9 @@ Console.WriteLine();
 
 
 Console.Write("Informe o primeiro número: ");
-float n1 = float.Parse(Console.ReadLine());
+float n1 = float.Parse(Console.ReadLine()!);
 Console.Write("Informe o segundo número: ");
-float n2 = float.Parse(Console.ReadLine());
+float n2 = float.Parse(Console.ReadLine()!);
 
 Console.Write($@"
     1) Somar
@@ -16,7 +16,7 @@ Console.Write($@"
     3) Multiplicar
     4) Dividir
     Digite a operação: ");
-string operacao = Console.ReadLine();
+string operacao = Console.ReadLine()!;
 Console.WriteLine();
 
 Calculadora calculadoraDaAnna = new Calculadora();
