@@ -8,6 +8,7 @@ namespace PilaresPOO.classes.Aprendizagem
         public string? cor { get; set; }
         public float potencia { get; set; }
         public int qtdPassageiro { get; set; }
+        public int qtdRodas { get; set; }
 
 
         public void Ligar()
